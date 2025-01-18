@@ -1,0 +1,14 @@
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.AssemblyInfoInputs.cache
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.AssemblyInfo.cs
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.csproj.CoreCompileInputs.cache
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/bin/Debug/net9.0/Virtual_Pet_Simulator
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/bin/Debug/net9.0/Virtual_Pet_Simulator.deps.json
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/bin/Debug/net9.0/Virtual_Pet_Simulator.runtimeconfig.json
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/bin/Debug/net9.0/Virtual_Pet_Simulator.dll
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/bin/Debug/net9.0/Virtual_Pet_Simulator.pdb
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.dll
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/refint/Virtual_Pet_Simulator.dll
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.pdb
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/Virtual_Pet_Simulator.genruntimeconfig.cache
+/Users/hrachmargaryan/Desktop/C#_Projects/Virtual_Pet_Simulator/obj/Debug/net9.0/ref/Virtual_Pet_Simulator.dll
